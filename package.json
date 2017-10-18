@@ -1,18 +1,13 @@
 {
-  "name": "searls",
+  "name": "jdan",
   "version": "0.0.2",
-  "description": "Justin Searls' contact info",
+  "description": "Jordan Scales's contact info",
   "main": "index.js",
-  "repository": "searls/searls",
+  "repository": "jdan/jdan",
   "scripts": {
     "postinstall": "cat info.json"
   },
-  "keywords": [
-    "person",
-    "contact",
-    "searls",
-    "test double"
-  ],
-  "author": "Justin Searls <searls@gmail.com>",
+  "keywords": ["person", "contact", "jdan"],
+  "author": "Jordan Scales <scalesjordan@gmail.com>",
   "license": "GPL-3.0"
 }

@@ -1,11 +1,23 @@
 {
-  "name": "Justin Searls",
+  "name": "Jordan Scales",
   "email": {
-    "personal": "searls@gmail.com",
-    "work": "justin@testdouble.com"
+    "personal": "scalesjordan@gmail.com"
   },
-  "twitter": "searls",
-  "github": "searls",
-  "linkedin": "searls",
-  "website": "https://testdouble.com/agency"
+  "twitter": "jdan",
+  "github": "jdan",
+  "website": "http://thatjdanisso.cool",
+  "likes": [
+    "javascript",
+    "react",
+    "a11y",
+    "ocaml",
+    "giving developers superpowers",
+    "LIGHTS - Same Sea",
+    "Martenelli's Sparkling Apple Juice"
+  ],
+  "dislikes": [
+    "confusing error messages",
+    "propaganda",
+    "how JSON doesn't have trailing commas"
+  ]
 }
