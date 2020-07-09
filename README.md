@@ -7,7 +7,3 @@ My name is [Jordan](https://jordanscales.com). I like science fiction, [writing]
 I currently work at [Stripe](https://stripe.com), building internal tools to facilitate collaboration between my coworkers.
 
 Shoot me an email – jdan@hey.com
-
-<img width="200" alt="guest book" src="https://github.com/jdan/jdan/raw/master/img/guestbook.png?raw=true">
-
-* jordan was here
