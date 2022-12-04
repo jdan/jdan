@@ -4,4 +4,4 @@
 
 My name is [Jordan](https://jordanscales.com). I like science fiction, [writing](https://notes.jordanscales.com), theoretical computer science, [retro computing](https://jdan.github.io/98.css), silly [twitter](https://twitter.com/jdan) accounts, and try not to take myself too seriously.
 
-Shoot me an email – jdan@hey.com
+Shoot me an email
